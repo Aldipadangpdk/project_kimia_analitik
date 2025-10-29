@@ -22,11 +22,12 @@ project_kimia_analitik/
 ## 📚 Referensi
 
 Berikut adalah file-file referensi yang tersedia dalam repository ini:
-- (Ref-1)[.referensi/ref-1_35.+Ilham.pdf]
-- (Ref-2)[.referensi/ref-2_aazhari,+6.+Syamsul+Bahri.pdf]
+- [Ref-1](.referensi/ref-1_35.+Ilham.pdf)
+- [Ref-2](.referensi/ref-2_aazhari,+6.+Syamsul+Bahri.pdf)
 - (Ref-3)[]
 - (Ref-4)[]
 - (Ref-5)[]
 - (Ref-6)[]
 - (Ref-7)[]
 - (Ref-8)[]
+
