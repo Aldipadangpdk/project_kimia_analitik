@@ -21,13 +21,13 @@ project_kimia_analitik/
 
 ## 📚 Referensi
 
-Berikut adalah file-file referensi yang tersedia dalam repository ini:
-- [Ref-1](.referensi/ref-1_35.+Ilham.pdf)
-- [Ref-2](.referensi/ref-2_aazhari,+6.+Syamsul+Bahri.pdf)
-- (Ref-3)[]
-- (Ref-4)[]
-- (Ref-5)[]
-- (Ref-6)[]
-- (Ref-7)[]
-- (Ref-8)[]
+- [ref-1_35+.ilham.pdf](./referensi/ref-1_35+.ilham.pdf)
+- [ref-2_aazhari.+6.+Syamsul+Bahr.pdf](./referensi/ref-2_aazhari.+6.+Syamsul+Bahr.pdf)
+- [ref-3_B129-17867-1-SM.pdf](./referensi/ref-3_B129-17867-1-SM.pdf)
+- [ref-4_107323-ID-none.pdf](./referensi/ref-4_107323-ID-none.pdf)
+- [ref-5_12+Hasan+et+al+116-127.pdf](./referensi/ref-5_12+Hasan+et+al+116-127.pdf)
+- [ref-6_riektra.+D2+-+Dedy+Husnurrofiq.pdf](./referensi/ref-6_riektra.+D2+-+Dedy+Husnurrofiq.pdf)
+- [ref-7_Saudi komparasi metode ekstraksi cair-cair.pdf](./referensi/ref-7_Saudi%20komparasi%20metode%20ekstraksi%20cair-cair.pdf)
+- [ref-8_5213412005.pdf](./referensi/ref-8_5213412005.pdf)
+
 
