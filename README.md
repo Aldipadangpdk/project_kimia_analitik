@@ -1,6 +1,5 @@
 # Project Kimia Analitik
-
-Repository ini berisi kumpulan materi, laporan praktikum, dan referensi untuk mata kuliah Kimia Analitik.
+---
 
 ## 📋 Deskripsi
 Project ini adalah tugas kimia analitik.
@@ -29,6 +28,7 @@ project_kimia_analitik/
 - [ref-6_riektra.+D2+-+Dedy+Husnurrofiq.pdf](./referensi/ref-6_riektra.+D2+-+Dedy+Husnurrofiq.pdf)
 - [ref-7_Saudi komparasi metode ekstraksi cair-cair.pdf](./referensi/ref-7_Saudi%20komparasi%20metode%20ekstraksi%20cair-cair.pdf)
 - [ref-8_5213412005.pdf](./referensi/ref-8_5213412005.pdf)
+
 
 
 
